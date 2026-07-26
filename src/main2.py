@@ -3,6 +3,7 @@ import chess
 from reason_features import get_reasons
 from explanation import generate_explanation
 
+
 # =====================================
 # إعداد Stockfish
 # =====================================
