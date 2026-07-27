@@ -8,6 +8,7 @@ import os
 
 
 class Board:
+    
 
     def __init__(self):
         self.squares = [[0 for _ in range(COLS)] for _ in range(ROWS)]
