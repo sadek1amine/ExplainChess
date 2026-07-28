@@ -2,6 +2,7 @@
 from stockfish import Stockfish
 import chess
 
+
 # =====================================
 # إعداد Stockfish
 # =====================================
