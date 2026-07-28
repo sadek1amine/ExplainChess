@@ -5,6 +5,7 @@ from explanation import generate_explanation
 
 
 
+
 # =====================================
 # إعداد Stockfish
 # =====================================
