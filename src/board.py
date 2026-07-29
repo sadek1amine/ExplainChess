@@ -7,6 +7,7 @@ import copy
 import os
 
 
+
 class Board:
     
 
